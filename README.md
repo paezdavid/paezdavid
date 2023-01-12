@@ -6,7 +6,9 @@
 
 </div>
   
-- [My most exciting project so far](https://github.com/paezdavid/chess-puzzles-pdf) is a website on which you can **filter puzzles from the Lichess database** and put them in a **PDF** document. 
+- [My most exciting project so far](https://github.com/paezdavid/calles-py) is a website on which users can **upload pictures and locations** of streets that need maintenance in Paraguay. The aim of this project is to make visible the urbanization problems that my country has.
+
+- [My second most interesting project](https://github.com/paezdavid/chess-puzzles-pdf) is a website on which you can **filter puzzles from the Lichess database** and put them in a **PDF** document.
   
 - Lately, and only for educational purposes, I've also been learning about **crawling and aggregation**, as seen in [this news aggregator project](https://github.com/paezdavid/agregador-noticias).
 
