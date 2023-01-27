@@ -19,7 +19,7 @@
 - A couple of other projects I have under my belt are a website to [check the weather](https://github.com/paezdavid/weather-website) and some [static websites](https://github.com/paezdavid/bookmark-landing-page) built with plain HTML and CSS. 
 
 #### I like to work with Javascript, Node.js, Python, MongoDB, HTML, and CSS. 
-#### I am currently learning about PostgreSQL, Bash, and just general computer science concepts. 
+#### I am currently learning about PostgreSQL, and just general computer science concepts. 
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/david-p%C3%A1ez-ab3aab256/">
