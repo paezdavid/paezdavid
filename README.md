@@ -1,7 +1,7 @@
 ## About me
 
 <div>
-  <p>I am a 22-year-old developer looking for his <b>first job in the tech industry.</b></p>
+  <p>I am a 23-year-old developer looking for his <b>first job in the tech industry.</b></p>
   <p>I am mainly interested in <b>backend technologies and databases</b>, and I have built a few projects where I focused heavily on the backend of the application</p>
 
 </div>
