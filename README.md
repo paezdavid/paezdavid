@@ -12,7 +12,7 @@
   
 - Lately, and only for educational purposes, I've also been learning about **crawling and aggregation**, as seen in [this news aggregator project](https://github.com/paezdavid/agregador-noticias).
 
-- This year, I was also a participant in [Penguin Academy's](https://github.com/penguin-academy) **Python bootcamp**. The final project for me and my team was a [web application to geolocate artisans in Paraguay](https://github.com/paezdavid/hackathon2).
+- Last year, I was also a participant in [Penguin Academy's](https://github.com/penguin-academy) **Python bootcamp**. The final project for me and my team was a [web application to geolocate artisans in Paraguay](https://github.com/paezdavid/hackathon2).
 
 - I am majoring in English with a focus on translation EN/ES. Combining my studies with my interest in **cybersecurity**, I've done an independent [translation for a document about the basics of cybersecurity](https://github.com/paezdavid/ciberseguridad-essentials).
 
