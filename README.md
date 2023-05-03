@@ -1,18 +1,18 @@
 ## About me
 
 <div>
-  <p>I am a 23-year-old developer looking for his <b>first job in the tech industry.</b></p>
+  <p>I am a 23-year-old self-taught developer that is always looking for <b>new opportunities and projects to contribute to.</b></p>
   <p>I am mainly interested in <b>backend technologies and databases</b>, and I have built a few projects where I focused heavily on the backend of the application</p>
 
 </div>
   
-- [My most exciting project so far](https://github.com/paezdavid/calles-py) is a website on which users can **upload pictures and locations** of streets that need maintenance in Paraguay. The aim of this project is to make visible the urbanization problems that my country has.
+- [My most exciting project so far](https://github.com/paezdavid/calles-py) is a website on which users can **upload pictures and locations** of streets that need maintenance in Paraguay. The aim of this project is to make visible the problems that the streets of my country have. Built with Express, Tailwind, Supabase and MongoDB.
 
-- [My second most interesting project](https://github.com/paezdavid/chess-puzzles-pdf) is a website on which you can **filter puzzles from the Lichess database** and put them in a **PDF** document.
+- [My second most interesting project](https://github.com/paezdavid/chessapi) is a RESTful API for the Lichess' chess puzzles database. Built with Express and MongoDB.
   
-- Lately, and only for educational purposes, I've also been learning about **crawling and aggregation**, as seen in [this news aggregator project](https://github.com/paezdavid/agregador-noticias).
+- Lately, and only for educational purposes, I've also been learning about **crawling and aggregation**, as seen in [this news aggregator project](https://github.com/paezdavid/agregador-noticias). Built with Flask.
 
-- Last year, I was also a participant in [Penguin Academy's](https://github.com/penguin-academy) **Python bootcamp**. The final project for me and my team was a [web application to geolocate artisans in Paraguay](https://github.com/paezdavid/hackathon2).
+- This year, I worked as a mentor in two [Penguin Academy's](https://github.com/penguin-academy) **Python bootcamps**. The final project for me and my team was a [REST API to centralize data from Paraguay's prison system](https://github.com/paezdavid/hackathon-abril-penguin).
 
 - I am majoring in English with a focus on translation EN/ES. Combining my studies with my interest in **cybersecurity**, I've done an independent [translation for a document about the basics of cybersecurity](https://github.com/paezdavid/ciberseguridad-essentials).
 
