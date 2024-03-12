@@ -1,7 +1,7 @@
 ## About me
 
 <div>
-  <p>I am a 23-year-old self-taught developer that is always looking for <b>new opportunities and projects to contribute to.</b></p>
+  <p>I am a 24-year-old self-taught developer who is always looking for <b>new opportunities and projects to contribute to.</b></p>
   <p>I am mainly interested in building projects that aim to have a social impact. To me, technology is a practical tool for people's everyday challenges, while also being a field that allows creativity and innovation.  <b>Backend technologies and databases</b> are my main interests, and I have built a few projects where I focused heavily on those sides of the application</p>
 
 </div>
